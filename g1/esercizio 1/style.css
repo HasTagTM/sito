@@ -1,0 +1,47 @@
+body{
+    width: 100%;
+    margin: 5px;
+    height: 100vh;
+}
+
+table th, td{
+    border: 1px solid black;
+    color: white;
+    background-color: brown;
+    padding: 15px;
+}
+
+table{
+    margin-top: 20px;
+}
+
+img{
+    width: 20%;
+    margin-left: 35%;
+    padding: 15px;
+    padding-top: 10%;
+   
+}
+
+p{
+    background-color: cornflowerblue;
+    padding: 1em;
+    text-align: center;
+}
+
+h1{
+    font-size: 2em;
+    color: blue;
+}
+
+#liste{
+    background-color: darkgreen;
+    color: gainsboro;
+    padding: 1em;
+    margin right: 30%;
+    
+}
+
+h2{
+    color: chocolate;
+}
